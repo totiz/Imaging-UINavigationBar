@@ -864,9 +864,9 @@
     s = 0;
 }</string>
 		</dict>
-		<real>322222866.85398501</real>
+		<real>322223272.142353</real>
 		<string>{1475, 799}</string>
-		<string>{1954, 0}</string>
+		<string>{2038, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -912,9 +912,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>322222750.52291203</real>
+		<real>322223277.164473</real>
 		<string>{2189, 698}</string>
-		<string>{2511, 0}</string>
+		<string>{2512, 373}</string>
 		<integer>0</integer>
 		<dict>
 			<key>$class</key>
@@ -1344,7 +1344,7 @@
 				<integer>132</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/RootViewController.m</string>
+		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/ImagingUINavigationBarAppDelegate.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1362,7 +1362,7 @@
 				<integer>134</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/RootViewController.h</string>
+		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/RootViewController.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1380,7 +1380,7 @@
 				<integer>136</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/mySecondView.h</string>
+		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/RootViewController.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1398,7 +1398,7 @@
 				<integer>138</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/ImagingUINavigationBarAppDelegate.m</string>
+		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/mySecondView.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1473,7 +1473,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>291</integer>
+					<integer>290</integer>
 				</dict>
 			</array>
 		</dict>
@@ -1583,7 +1583,7 @@
 		<string>IDEWorkspaceTabControllerDesignAreaSplitView</string>
 		<string>IDEShowUtilities</string>
 		<string>IDEEditorArea</string>
-		<string>RootViewController.m</string>
+		<string>ImagingUINavigationBarAppDelegate.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1847,7 +1847,7 @@
 		</dict>
 		<string>ImagingUINavigationBar</string>
 		<string>ImagingUINavigationBar</string>
-		<string>RootViewController.m</string>
+		<string>ImagingUINavigationBarAppDelegate.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2081,11 +2081,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>223</integer>
+					<integer>222</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>249</integer>
+					<integer>248</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2097,11 +2097,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>282</integer>
+					<integer>281</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>290</integer>
+					<integer>289</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2121,7 +2121,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>222</integer>
+				<integer>221</integer>
 			</dict>
 			<key>geniusEditorContextNode</key>
 			<dict>
@@ -2136,14 +2136,14 @@
 			<key>rootLayoutTreeNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>219</integer>
+				<integer>218</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>221</integer>
+				<integer>220</integer>
 			</dict>
 			<key>children</key>
 			<dict>
@@ -2162,14 +2162,14 @@
 			<key>parent</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>219</integer>
+				<integer>218</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>218</integer>
+				<integer>217</integer>
 			</dict>
 			<key>DocumentLocation</key>
 			<dict>
@@ -2265,27 +2265,18 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>217</integer>
+				<integer>216</integer>
 			</dict>
 			<key>documentURL</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>216</integer>
+				<integer>65</integer>
 			</dict>
 			<key>timestamp</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>0</integer>
 			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.string</key>
-			<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/RootViewController.m</string>
 		</dict>
 		<dict>
 			<key>$classes</key>
@@ -2309,12 +2300,12 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>221</integer>
+				<integer>220</integer>
 			</dict>
 			<key>children</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>220</integer>
+				<integer>219</integer>
 			</dict>
 			<key>contentType</key>
 			<integer>0</integer>
@@ -2373,6 +2364,10 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>223</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
 					<integer>224</integer>
 				</dict>
 				<dict>
@@ -2391,10 +2386,6 @@
 					<key>CF$UID</key>
 					<integer>228</integer>
 				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>229</integer>
-				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
@@ -2404,11 +2395,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>230</integer>
+					<integer>229</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>232</integer>
+					<integer>231</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2416,11 +2407,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>235</integer>
+					<integer>234</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>243</integer>
+					<integer>242</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2440,7 +2431,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>231</integer>
+					<integer>230</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
@@ -2462,14 +2453,14 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>233</integer>
+					<integer>232</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>234</integer>
+					<integer>233</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2492,7 +2483,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>236</integer>
+					<integer>235</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2506,11 +2497,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>237</integer>
+					<integer>236</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>240</integer>
+					<integer>239</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2535,11 +2526,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>238</integer>
+					<integer>237</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>239</integer>
+					<integer>238</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2566,11 +2557,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>241</integer>
+					<integer>240</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>242</integer>
+					<integer>241</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2593,7 +2584,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>244</integer>
+					<integer>243</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2607,11 +2598,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>245</integer>
+					<integer>244</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>247</integer>
+					<integer>246</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2636,11 +2627,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>238</integer>
+					<integer>237</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>246</integer>
+					<integer>245</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2666,11 +2657,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>241</integer>
+					<integer>240</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>248</integer>
+					<integer>247</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2685,14 +2676,14 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>250</integer>
+					<integer>249</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>251</integer>
+					<integer>250</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2707,14 +2698,14 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>252</integer>
+					<integer>251</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>253</integer>
+					<integer>252</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2729,22 +2720,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>253</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
 					<integer>254</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>255</integer>
 				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>256</integer>
-				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>257</integer>
+					<integer>256</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2752,7 +2743,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>280</integer>
+					<integer>279</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2769,7 +2760,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>258</integer>
+					<integer>257</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2781,6 +2772,10 @@
 			</dict>
 			<key>NS.keys</key>
 			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>258</integer>
+				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>259</integer>
@@ -2805,28 +2800,24 @@
 					<key>CF$UID</key>
 					<integer>264</integer>
 				</dict>
+			</array>
+			<key>NS.objects</key>
+			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>265</integer>
 				</dict>
-			</array>
-			<key>NS.objects</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>266</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>267</integer>
+					<integer>272</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>273</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>277</integer>
+					<integer>276</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2838,7 +2829,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>278</integer>
+					<integer>277</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2854,7 +2845,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>218</integer>
+				<integer>217</integer>
 			</dict>
 			<key>DocumentLocation</key>
 			<dict>
@@ -2869,7 +2860,7 @@
 			<key>IdentifierPath</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>268</integer>
+				<integer>267</integer>
 			</dict>
 			<key>IndexOfDocumentIdentifier</key>
 			<dict>
@@ -2887,15 +2878,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
+					<integer>268</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
 					<integer>269</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>270</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>271</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2932,7 +2923,7 @@
 			<key>Identifier</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>272</integer>
+				<integer>271</integer>
 			</dict>
 		</dict>
 		<string>ImagingUINavigationBar</string>
@@ -2946,19 +2937,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>79</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
 					<integer>67</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>69</integer>
+					<integer>68</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>68</integer>
+					<integer>69</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2969,7 +2956,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>80</integer>
+					<integer>273</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2983,16 +2970,12 @@
 					<key>CF$UID</key>
 					<integer>275</integer>
 				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>276</integer>
-				</dict>
 			</array>
 		</dict>
-		<real>322222866.85683602</real>
-		<string>{1475, 799}</string>
-		<string>{1954, 0}</string>
-		<string>-didReceiveMemoryWarning</string>
+		<real>322223277.16668499</real>
+		<string>{2189, 698}</string>
+		<string>{2512, 373}</string>
+		<string>@implementation UINavigationBar(UINavigationBarCategory)</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3007,10 +2990,10 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>279</integer>
+				<integer>278</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/RootViewController.m</string>
+		<string>file://localhost/Users/totizy/Documents/iOS/iPhone/Beginer/Testing/ImagingUINavigationBar/ImagingUINavigationBar/ImagingUINavigationBarAppDelegate.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3021,7 +3004,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>281</integer>
+					<integer>280</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3043,7 +3026,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>283</integer>
+					<integer>282</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3057,11 +3040,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>284</integer>
+					<integer>283</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>287</integer>
+					<integer>286</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3086,11 +3069,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>285</integer>
+					<integer>284</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>286</integer>
+					<integer>285</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3117,11 +3100,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>288</integer>
+					<integer>287</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>289</integer>
+					<integer>288</integer>
 				</dict>
 			</array>
 		</dict>
