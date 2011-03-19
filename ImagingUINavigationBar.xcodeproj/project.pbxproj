@@ -16,6 +16,9 @@
 		3B2FB8B91334BA30001072A2 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B2FB8B71334BA30001072A2 /* MainWindow.xib */; };
 		3B2FB8BC1334BA30001072A2 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B2FB8BB1334BA30001072A2 /* RootViewController.m */; };
 		3B2FB8BF1334BA30001072A2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B2FB8BD1334BA30001072A2 /* RootViewController.xib */; };
+		3B2FB8C61334BA94001072A2 /* BarImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3B2FB8C51334BA94001072A2 /* BarImage.jpg */; };
+		3B2FB8CA1334BADC001072A2 /* mySecondView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B2FB8C81334BADC001072A2 /* mySecondView.m */; };
+		3B2FB8CB1334BADC001072A2 /* mySecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B2FB8C91334BADC001072A2 /* mySecondView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +26,20 @@
 		3B2FB8A51334BA30001072A2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3B2FB8A71334BA30001072A2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3B2FB8A91334BA30001072A2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3B2FB8AD1334BA30001072A2 /* ImagingUINavigationBar-Info.plist */ = {isa = PBXFileReference; path = "ImagingUINavigationBar-Info.plist"; sourceTree = "<group>"; };
+		3B2FB8AD1334BA30001072A2 /* ImagingUINavigationBar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ImagingUINavigationBar-Info.plist"; sourceTree = "<group>"; };
 		3B2FB8AF1334BA30001072A2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3B2FB8B11334BA30001072A2 /* ImagingUINavigationBar-Prefix.pch */ = {isa = PBXFileReference; path = "ImagingUINavigationBar-Prefix.pch"; sourceTree = "<group>"; };
+		3B2FB8B11334BA30001072A2 /* ImagingUINavigationBar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ImagingUINavigationBar-Prefix.pch"; sourceTree = "<group>"; };
 		3B2FB8B21334BA30001072A2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3B2FB8B41334BA30001072A2 /* ImagingUINavigationBarAppDelegate.h */ = {isa = PBXFileReference; path = ImagingUINavigationBarAppDelegate.h; sourceTree = "<group>"; };
+		3B2FB8B41334BA30001072A2 /* ImagingUINavigationBarAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImagingUINavigationBarAppDelegate.h; sourceTree = "<group>"; };
 		3B2FB8B51334BA30001072A2 /* ImagingUINavigationBarAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagingUINavigationBarAppDelegate.m; sourceTree = "<group>"; };
 		3B2FB8B81334BA30001072A2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		3B2FB8BA1334BA30001072A2 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		3B2FB8BA1334BA30001072A2 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		3B2FB8BB1334BA30001072A2 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		3B2FB8BE1334BA30001072A2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
+		3B2FB8C51334BA94001072A2 /* BarImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BarImage.jpg; sourceTree = "<group>"; };
+		3B2FB8C71334BADC001072A2 /* mySecondView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mySecondView.h; sourceTree = "<group>"; };
+		3B2FB8C81334BADC001072A2 /* mySecondView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mySecondView.m; sourceTree = "<group>"; };
+		3B2FB8C91334BADC001072A2 /* mySecondView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = mySecondView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +92,10 @@
 				3B2FB8BA1334BA30001072A2 /* RootViewController.h */,
 				3B2FB8BB1334BA30001072A2 /* RootViewController.m */,
 				3B2FB8BD1334BA30001072A2 /* RootViewController.xib */,
+				3B2FB8C71334BADC001072A2 /* mySecondView.h */,
+				3B2FB8C81334BADC001072A2 /* mySecondView.m */,
+				3B2FB8C91334BADC001072A2 /* mySecondView.xib */,
+				3B2FB8C51334BA94001072A2 /* BarImage.jpg */,
 				3B2FB8AC1334BA30001072A2 /* Supporting Files */,
 			);
 			path = ImagingUINavigationBar;
@@ -154,6 +165,8 @@
 				3B2FB8B01334BA30001072A2 /* InfoPlist.strings in Resources */,
 				3B2FB8B91334BA30001072A2 /* MainWindow.xib in Resources */,
 				3B2FB8BF1334BA30001072A2 /* RootViewController.xib in Resources */,
+				3B2FB8C61334BA94001072A2 /* BarImage.jpg in Resources */,
+				3B2FB8CB1334BADC001072A2 /* mySecondView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +180,7 @@
 				3B2FB8B31334BA30001072A2 /* main.m in Sources */,
 				3B2FB8B61334BA30001072A2 /* ImagingUINavigationBarAppDelegate.m in Sources */,
 				3B2FB8BC1334BA30001072A2 /* RootViewController.m in Sources */,
+				3B2FB8CA1334BADC001072A2 /* mySecondView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

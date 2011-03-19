@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "mySecondView.h"
 
 @interface RootViewController : UITableViewController {
-
+    NSMutableArray *myArray;
 }
 
 
